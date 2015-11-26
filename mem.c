@@ -1,10 +1,3 @@
-/**
- * @file memory.c
- * @brief: ECE254 Lab: memory allocation algorithm comparison template file
- * @author: 
- * @date: 2015-11-20
- */
-
 /* includes */
 #include <stdio.h> 
 #include <stdlib.h> 
